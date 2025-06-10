@@ -12,37 +12,6 @@ Combinamos **engenharia de software**, **UX/UI design**, **arquitetura robusta**
 
 ---
 
-## 💼 Nossos Serviços
-
-Oferecemos soluções completas para negócios que desejam fortalecer sua presença digital:
-
-### 🖥️ Sites Institucionais
-Presença profissional online com design exclusivo, responsivo e otimizado para performance.
-
-### 🚀 Landing Pages
-Páginas focadas em conversão para campanhas de marketing digital e geração de leads.
-
-### 🛒 E-commerce
-Lojas virtuais completas com integração de meios de pagamento, segurança e escalabilidade.
-
-### ✍️ Blogs Profissionais
-Plataformas de conteúdo com foco em autoridade de marca e engajamento com o público.
-
-### 🧩 Sistemas Web
-Soluções sob medida para atender necessidades específicas com máxima eficiência.
-
----
-
-## 🔁 Nosso Processo
-
-1. **Descoberta e Imersão**
-2. **Prototipação e Validação**
-3. **Desenvolvimento Iterativo**
-4. **Entrega Contínua**
-5. **Suporte e Evolução**
-
----
-
 ## 🤝 Nossos Valores
 
 - Excelência técnica
@@ -61,3 +30,5 @@ Soluções sob medida para atender necessidades específicas com máxima eficiê
 ---
 
 > “Na Abilith, transformamos ideias em experiências digitais memoráveis.”
+
+![Frame 14](https://github.com/user-attachments/assets/b7d0b560-d452-4b09-bacb-39589eb0f34a)
