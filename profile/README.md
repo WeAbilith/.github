@@ -1,6 +1,6 @@
-# Abilith · Consultoria de Software
+# Abilith
 
-**Abilith** é uma consultoria especializada no desenvolvimento de soluções digitais sob medida. Atuamos com tecnologia de ponta, metodologias ágeis e foco total em entregar valor ao negócio dos nossos clientes.
+Somos especialistas no desenvolvimento de soluções digitais sob medida. Atuamos com tecnologia de ponta, metodologias ágeis e foco total em entregar valor ao negócio dos nossos clientes.
 
 ---
 
@@ -12,26 +12,24 @@ Combinamos **engenharia de software**, **UX/UI design**, **arquitetura robusta**
 
 ---
 
-## 🚀 O que Fazemos
+## 💼 Nossos Serviços
 
-- **Desenvolvimento de Software Sob Demanda**
-- **Consultoria em Arquitetura e Engenharia de Sistemas**
-- **Aplicações Web e Mobile**
-- **Modernização de Sistemas Legados**
-- **Integrações com APIs e Serviços Terceiros**
-- **Infraestrutura em Nuvem e DevOps**
-- **MVPs e Produtos Digitais End-to-End**
+Oferecemos soluções completas para negócios que desejam fortalecer sua presença digital:
 
----
+### 🖥️ Sites Institucionais
+Presença profissional online com design exclusivo, responsivo e otimizado para performance.
 
-## 🧰 Tecnologias com que Trabalhamos
+### 🚀 Landing Pages
+Páginas focadas em conversão para campanhas de marketing digital e geração de leads.
 
-- **Back-end**: Node.js, .NET, Python, Java, Go
-- **Front-end**: React, Next.js, Vue, Angular
-- **Mobile**: React Native, Flutter, Kotlin/Java
-- **Banco de Dados**: PostgreSQL, MongoDB, MySQL, Redis
-- **Cloud & DevOps**: AWS, Azure, GCP, Docker, Kubernetes, Terraform
-- **Ferramentas**: GitHub, GitLab, Jira, Notion, Figma
+### 🛒 E-commerce
+Lojas virtuais completas com integração de meios de pagamento, segurança e escalabilidade.
+
+### ✍️ Blogs Profissionais
+Plataformas de conteúdo com foco em autoridade de marca e engajamento com o público.
+
+### 🧩 Sistemas Web
+Soluções sob medida para atender necessidades específicas com máxima eficiência.
 
 ---
 
@@ -42,8 +40,6 @@ Combinamos **engenharia de software**, **UX/UI design**, **arquitetura robusta**
 3. **Desenvolvimento Iterativo**
 4. **Entrega Contínua**
 5. **Suporte e Evolução**
-
-Trabalhamos com **Scrum** e **Kanban**, sempre adaptando o processo à realidade do cliente.
 
 ---
 
@@ -57,22 +53,10 @@ Trabalhamos com **Scrum** e **Kanban**, sempre adaptando o processo à realidade
 
 ---
 
-## 🧑‍💻 Repositórios Relacionados
-
-| Projeto                        | Descrição                                        |
-|-------------------------------|--------------------------------------------------|
-| `abilith-lp-frontend`         | Landing page institucional                       |
-| `abilith-core-components`     | Biblioteca interna de componentes React          |
-| `abilith-dev-guidelines`      | Guia de boas práticas e padrões de código        |
-| `abilith-api-starter`         | Template de API REST moderna com TypeScript      |
-
----
-
 ## 📬 Contato
 
-- 🌐 Site: [www.abilith.com](https://www.abilith.com)
+- 🌐 Site: [abilith.com](https://www.abilith.com)
 - 📧 Email: contato@abilith.com
-- 💼 LinkedIn: [linkedin.com/company/abilith](https://www.linkedin.com/company/abilith)
 
 ---
 
